@@ -12,7 +12,11 @@
 
    Guide for installing Jupyter Notebook in Local system: https://test-jupyter.readthedocs.io/en/latest/install.html
 
-3) Save the notebook and push it into Github. Share the commit link into the Google Form: https://forms.gle/QCfjjyQQ5jnoegNe9
+3) Save the notebook and push it into forked Github github repo. Take a screencast video demonstrating the working solution in your system and upload the video into the forked github repo.
+   
+   Guide to pushing code into Github Repo: https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github
+
+5) Share the repository link into the Google Form: https://forms.gle/QCfjjyQQ5jnoegNe9
 
 ## Questions:
 
@@ -31,5 +35,3 @@ Q6: Which book (title) has the maximum number of ratings based on ‘work_rating
 Q7: Bucket the average_rating of books into 11 buckets [0, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0, 4.5, 5.0] with 0.5 decimal rounding (eg: average_rating 3.0 to 3.49 will fall in bucket 3.0). Plot bar graph to show total number of books in each rating bucket.
 
 
-
-Guide to pushing code into Github Repo: https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github
