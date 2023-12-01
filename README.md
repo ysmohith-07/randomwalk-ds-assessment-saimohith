@@ -12,7 +12,9 @@
 
    Guide for installing Jupyter Notebook in Local system: https://test-jupyter.readthedocs.io/en/latest/install.html
 
-3) Save the notebook and push it into forked Github github repo. Take a screencast video demonstrating the working solution in your system and upload the video into the forked github repo.
+3) Save the notebook and push it into forked Github github repo.
+   
+4) Capture a screencast video recording demonstrating the solution in your system and upload the video into the forked github repo.
    
    Guide to pushing code into Github Repo: https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github
 
